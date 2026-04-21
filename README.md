@@ -4,9 +4,9 @@
 
 **AAR Games Adventure** adalah sebuah game *2D Top-Down Action RPG / Dungeon Crawler* berbasis web yang dimainkan secara *real-time*. Game ini menampilkan sistem pertarungan yang mulus, grafik dan animasi prosedural (tanpa menggunakan gambar/aset eksternal), pencahayaan dinamis (*dynamic lighting*), serta dukungan penuh untuk dimainkan di PC maupun *smartphone* (Mobile-Responsive).
 
-<img width="5479" height="8192" alt="Player Animation and Game-2026-04-21-090243" src="https://github.com/user-attachments/assets/8addfbad-7dbc-47f0-bdc7-5a938c7f3a52" />
-
 Game ini murni dibangun dari awal (dari nol) tanpa menggunakan *game engine* pihak ketiga demi mengoptimalkan performa dan pemahaman fundamental pembuatan game web.
+
+<img width="5479" height="8192" alt="Player Animation and Game-2026-04-21-090243" src="https://github.com/user-attachments/assets/8addfbad-7dbc-47f0-bdc7-5a938c7f3a52" />
 
 ---
 
